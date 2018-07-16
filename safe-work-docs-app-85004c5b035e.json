@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "safe-work-docs-app",
+  "private_key_id": "85004c5b035ef44832153bb63036900b0c7bfb36",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDo3rxDkLsI5nQL\nqxdq4eaMtn0i4NNME0pkQujUSAPlLeIL3ym0V2ezUikGAnFyPwayrvT8v5EgHcsy\nSlrqvy4FgqvV/bs9dlLfCo1wDACU9J5A/YiFnAiZZxXv1WKpj7jR0kqdlXGv1Gwx\n4uKinArvzOo5GWdEQ4Hhw65P9jOX2veVvI21n/YjQF09CNjXExhTE6ByXixYC6Yh\n5OFABcPnVE7izClm85M5dt4C3/WC6GAqMM3WgjIA/4l1iZd/C/OnSa2imSLP9lRg\nmbibpNJgVNz7MErcoxQ45tu2P3d5JA2ZtILpfOrqcElwmuPQDk0kKKpBTh+kv5lN\nDc8lCgzrAgMBAAECggEAJOWlzs7P08kv+elR/I1uij0f9rbIw/UKhHhVi80dUOLE\nPj1NzlVLCQ6rkVgxwXhbB1TRXHq98+jEmWNOpINGN3lM4MsjL8nft5dkcax1KyTX\nLlT9nK3sbuH2h9m3mEY9coFvcSiMqt9thTn9zuYKlZRSSFnOEvLfUXY/2EuaQSUT\nVf+EgoA0bnJd1C0tVxguMg4w8WbHfceCdrKou+i55bE0yZWq2GNjDsGKqCExayU8\nm+7O+6EtEdmmqIgeFon1i2rer0/vf4BZF8QShBgZHu1Yg5iO5SZUNpwNe1W7JMVJ\ncegnPIWECRU0YfdO3sPt+SkymoBO6razyjhcXiHiAQKBgQD0U8GbK7CQ506xsALL\nSsDiIuahDW5zEqHsjcBmbvcOWBAg0gWtmJ2kERwqzggba79/JloiImVAT8zwJ6HE\nB2ZeaZ2BYj89iHeYv0EQyF5H2/3t4rmHbqaI2sL5YYjA21J/tT7zpJ0pe/NKz6Gc\nllVyurToOSPctfBcMVFQ26Yx0QKBgQDz/tpX3QxqADbKjSWSX5yiBBYLoeLhyZRR\n4bkz2bMNj8gQNyyJqOf+fQxdxCHGEEo3XxH2yWjb7DMtkJkqrLMXRyETi1TMDFS1\ng3ARu1jBLDeWtwHxoxverDw9RHZB/nLt9iuSTzW7jKIiveADOtYfg08toFonDKZA\norvvuqQl+wKBgEaGKptEqCmbar6lZJkTkct0cYfJXbk/hpfGbuPiYdO1HaqrlNH/\n/HjQK4Y7hGGN32+vPVMfBITkw+4KMopn7GeSKtGe70wuqP7hLcHPZE9vs8NHr2/l\nQ5K7Oo5LVfL9G7obMfmX6XmA+r/8YNTXHAEK3Y8udyiNJ70kyykAzd8RAoGBAMVa\ngR8Kc60ViTviWN6BKX8+kNpN0ebRFn/4dMXEs3gnsSm0hvi9vxBv8t2w86RxrqYE\n5tHXbVJdRbP4Pntu/ti4Nr/JNghpfObobnBZOdvduQTV9+OMC9HbPEpOIt0UQ7/I\nGswX951AjjBNpnDWWTVaD2QXTHRDXgHv3tV0AKubAoGBAIe+xnHGhUDIpY3V7cvN\nODaOZp+QcOvKGTQgpd5knex9+winVDzFAXovU8CwFYIp5V1PNiq4ozEDJvTq1LJ2\nBN5+gKvRalV+682kBqBnzBs8dQPrG7/gChReTr1AdYrzxv3nuvnlPYQv+cHJihc3\nOkjSm/7tENVc04CbVwH1jBa8\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nvew5@safe-work-docs-app.iam.gserviceaccount.com",
+  "client_id": "100181626835996485282",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nvew5%40safe-work-docs-app.iam.gserviceaccount.com"
+}
